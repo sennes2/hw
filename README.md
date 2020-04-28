@@ -1,5 +1,6 @@
-# dockerfiles-centos-user-adderable
-Nginx install
+# dockerfiles-ubuntu-user-adderable
+FROM ubuntu
+add: net-tools,curl,tree
 
 # Building & Running
 

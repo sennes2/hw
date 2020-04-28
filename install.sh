@@ -1,2 +1,4 @@
 apt update -y
-apt install -y nginx
+apt install -y net-tools
+apt install -y curl
+apt install -y tree
